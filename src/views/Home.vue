@@ -4,18 +4,18 @@
 
     <v-row>
       <v-col cols="8" class="pr-0">
-        <Card class="mr-0" :style="H_92">
+        <Card class="mr-0">
           <template v-slot:title>楽曲</template>
-          <template v-slot:text>{{ song }}</template>
+          <template v-slot:text>{{ song.title }}</template>
         </Card>
       </v-col>
 
       <!-- <v-col cols="4" class="pl-0">
-        <img :src="idol.src" :style="H_92 + (isResult ? op_0 : '')" />
+        <img :src="idol.src" :style="H_92" />
       </v-col> -->
     </v-row>
 
-    <v-btn color="info">選曲！</v-btn>
+    <v-btn @click="result" color="info" :loading="promise">選曲</v-btn>
 
     <div class="d-flex flex-row-reverse pt-2 pr-4">
       <v-btn to="/about" text class="caption" color="blue darken-3" height="20" width="70">
@@ -28,32 +28,53 @@
 <script lang="ts">
 import {Component, Emit, Prop, Vue, Mixins} from 'vue-property-decorator'
 import Card from '@/components/Card.vue'
-// import NextBtn from '@/components/NextBtn.vue'
-// import rumors from '@/json/scraping-rumor.json'
-// interface Idol {
-//   name: string
-//   text: string
-//   src: string
-// }
+import maimai from '@/json/maimai.json'
+
+interface Song {
+  title: string
+  genre: string
+  level: string
+  format: string
+  DXscore: string
+}
+
 @Component
 export class MixinStyle extends Vue {
   private H_92 = 'height: 92px;'
   private op_0 = 'opacity: 0;'
 }
+
 @Component({
   components: {
     Card,
   },
 })
 export default class Home extends Mixins(MixinStyle) {
-  private song = 'MYTHOS'
+  private promise = false
+  private song: Song = {title: '', genre: '', level: '', format: '', DXscore: ''}
+
+  private async result() {
+    const rand: number = await require('random-number-csprng')(0, maimai.length)
+    const song = maimai[rand]
+
+    this.song = {
+      title: song.title,
+      genre: song.genre,
+      level: song.level,
+      format: song.format,
+      DXscore: song.DXscore,
+    }
+    // require(`@/assets/img/${rumor.name}.png`)
+
+    // this.promise = true
+    // fetch(`@/assets/img/${song.title}.png`).then(_ => (this.promise = false))
+  }
+
+  onload = this.result()
 }
 
 // export default class Home extends Mixins(MixinStyle) {
-//   private promise = false
-//   private isResult = true
-//   private idol: Idol = {name: '', text: '', src: ''}
-//   private async resultToggle() {
+//   private async result() {
 //     this.isResult = !this.isResult
 //     if (!this.isResult) return
 //     const rand: number = await require('random-number-csprng')(0, rumors.length)
@@ -66,7 +87,7 @@ export default class Home extends Mixins(MixinStyle) {
 //     this.promise = true
 //     fetch(this.idol.src).then(_ => (this.promise = false))
 //   }
-//   onload = this.resultToggle()
+//   onload = this.result()
 // }
 </script>
 
