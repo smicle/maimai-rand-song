@@ -15,6 +15,10 @@ yarn serve
 yarn build
 ```
 
+### Link
+[Firebase](https://console.firebase.google.com/u/0/project/maimai-rand-song/)
+[maimai-rand-song](https://maimai-rand-song.web.app/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
