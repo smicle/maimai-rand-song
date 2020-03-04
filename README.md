@@ -17,3 +17,14 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### yarn add
+@mdi/font
+@types/node
+ajv
+firebase
+material-design-icons-iconfont
+node
+vuetify
+
+random-number-csprng
