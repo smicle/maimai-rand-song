@@ -38,7 +38,7 @@
       </v-col>
     </v-row>
 
-    <v-btn @click="result" color="info" class="display-1	" :style="H(120) + W(250)">次</v-btn>
+    <v-btn @click="result" color="info" class="display-1	" :style="H(120) + W(250)">次へ</v-btn>
 
     <div class="d-flex flex-row-reverse pt-2 pr-4 mt-4">
       <v-btn to="/about" text class="caption" color="blue darken-3" height="20" width="70">
