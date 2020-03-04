@@ -1,0 +1,5196 @@
+[
+    {
+        "title": "言ノ葉カルマ",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2376"
+    },
+    {
+        "title": "究極焼肉レストラン！お燐の地獄亭！",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1377"
+    },
+    {
+        "title": "明星ロケット",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1188"
+    },
+    {
+        "title": "ミラクル・ショッピング",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1923"
+    },
+    {
+        "title": "美しく燃える森",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1125"
+    },
+    {
+        "title": "I ♥",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1527"
+    },
+    {
+        "title": "このピアノでお前を8759632145回ぶん殴る",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2901"
+    },
+    {
+        "title": "拝啓ドッペルゲンガー",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "3210"
+    },
+    {
+        "title": "Little \"Sister\" Bitch",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2598"
+    },
+    {
+        "title": "SAVIOR OF SONG",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1770"
+    },
+    {
+        "title": "幻想のサテライト",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2184"
+    },
+    {
+        "title": "幻想のサテライト",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2550"
+    },
+    {
+        "title": "うまるん体操",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1269"
+    },
+    {
+        "title": "Catch The Future",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1173"
+    },
+    {
+        "title": "Fist Bump",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2256"
+    },
+    {
+        "title": "フィクサー",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2316"
+    },
+    {
+        "title": "-OutsideR:RequieM-",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2451"
+    },
+    {
+        "title": "Starlight Disco",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "837"
+    },
+    {
+        "title": "Scarlet Wings",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2241"
+    },
+    {
+        "title": "Signature",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2094"
+    },
+    {
+        "title": "Altale",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1461"
+    },
+    {
+        "title": "極上スマイル",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1116"
+    },
+    {
+        "title": "にめんせい☆ウラオモテライフ！",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1440"
+    },
+    {
+        "title": "GO BACK 2 YOUR RAVE",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2997"
+    },
+    {
+        "title": "六兆年と一夜物語",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2112"
+    },
+    {
+        "title": "六兆年と一夜物語",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2244"
+    },
+    {
+        "title": "天ノ弱",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1764"
+    },
+    {
+        "title": "MAXRAGE",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2814"
+    },
+    {
+        "title": "猫祭り",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2355"
+    },
+    {
+        "title": "アンハッピーリフレイン",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2268"
+    },
+    {
+        "title": "お嫁にしなさいっ！",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1602"
+    },
+    {
+        "title": "Paradisus-Paradoxum",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1566"
+    },
+    {
+        "title": "ガラテアの螺旋",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2577"
+    },
+    {
+        "title": "Glorious Crown",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3450"
+    },
+    {
+        "title": "あねぺったん",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2163"
+    },
+    {
+        "title": "KISS CANDY FLAVOR",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2190"
+    },
+    {
+        "title": "FestivaLight",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1776"
+    },
+    {
+        "title": "リリリリ★バーニングナイト",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "神々の祈り",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1266"
+    },
+    {
+        "title": "もうみんなしねばいいのに",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2718"
+    },
+    {
+        "title": "ラブ・ドラマティック feat. 伊原六花",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1041"
+    },
+    {
+        "title": "馬と鹿",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "825"
+    },
+    {
+        "title": "絵の上手かった友達",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2028"
+    },
+    {
+        "title": "妄想税",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1581"
+    },
+    {
+        "title": "JACKY [Remix]",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1158"
+    },
+    {
+        "title": "Like the Wind [Reborn]",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2037"
+    },
+    {
+        "title": "極圏",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2937"
+    },
+    {
+        "title": "鼓動",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1308"
+    },
+    {
+        "title": "円舞曲、君に",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1182"
+    },
+    {
+        "title": "ファンタジーゾーン OPA-OPA! -GMT remix-",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1758"
+    },
+    {
+        "title": "BETTER CHOICE",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1650"
+    },
+    {
+        "title": "LOSER",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "2115"
+    },
+    {
+        "title": "Get Happy",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2040"
+    },
+    {
+        "title": "Beat of getting entangled",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1758"
+    },
+    {
+        "title": "ARROW",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1971"
+    },
+    {
+        "title": "only my railgun",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1377"
+    },
+    {
+        "title": "LANCE",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2565"
+    },
+    {
+        "title": "みんなのマイマイマー",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1875"
+    },
+    {
+        "title": "shake it!",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1491"
+    },
+    {
+        "title": "リッジでリッジでGO!GO!GO! -GMT mashup-",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2199"
+    },
+    {
+        "title": "檄！帝国華撃団(改)",
+        "genre": "ゲーム&バラエティ",
+        "level": "9+",
+        "format": "Std",
+        "DXscore": "705"
+    },
+    {
+        "title": "maiム・maiム feat.週刊少年マガジン",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2052"
+    },
+    {
+        "title": "アウトサイダー",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2382"
+    },
+    {
+        "title": "ハッピーシンセサイザ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "891"
+    },
+    {
+        "title": "アカリがやってきたぞっ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1896"
+    },
+    {
+        "title": "ドキドキDREAM!!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2637"
+    },
+    {
+        "title": "一か罰",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2184"
+    },
+    {
+        "title": "Still",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2379"
+    },
+    {
+        "title": "ネトゲ廃人シュプレヒコール",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2664"
+    },
+    {
+        "title": "天国と地獄",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1821"
+    },
+    {
+        "title": "色は匂へど散りぬるを",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1719"
+    },
+    {
+        "title": "oboro",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1908"
+    },
+    {
+        "title": "教えて!! 魔法のLyric",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1272"
+    },
+    {
+        "title": "クローバー♣クラブ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1707"
+    },
+    {
+        "title": "初音ミクの消失",
+        "genre": "niconico&ボーカロイド",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2883"
+    },
+    {
+        "title": "妖精村の月誕祭 ～Lunate Elf",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1818"
+    },
+    {
+        "title": "METATRON",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2775"
+    },
+    {
+        "title": "泡沫、哀のまほろば",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1176"
+    },
+    {
+        "title": "ハム太郎とっとこうた",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1353"
+    },
+    {
+        "title": "Yet Another ”drizzly rain”",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1791"
+    },
+    {
+        "title": "未完成人",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1977"
+    },
+    {
+        "title": "ゴーストルール",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2067"
+    },
+    {
+        "title": "Turn around",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1335"
+    },
+    {
+        "title": "My First Phone",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1596"
+    },
+    {
+        "title": "裏表ラバーズ",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1953"
+    },
+    {
+        "title": "Save This World νMIX",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1044"
+    },
+    {
+        "title": "ロストワンの号哭",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2838"
+    },
+    {
+        "title": "YA･DA･YO [Reborn]",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1539"
+    },
+    {
+        "title": "エテルニタス・ルドロジー",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2484"
+    },
+    {
+        "title": "オモイヨシノ",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2025"
+    },
+    {
+        "title": "若い力 -SEGA HARD GIRLS MIX-",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2085"
+    },
+    {
+        "title": "The Great Journey",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1560"
+    },
+    {
+        "title": "Link",
+        "genre": "maimai",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "924"
+    },
+    {
+        "title": "ラブチーノ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "Mare Maris",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2568"
+    },
+    {
+        "title": "スロウダウナー",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2121"
+    },
+    {
+        "title": "最終鬼畜妹・一部声",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2523"
+    },
+    {
+        "title": "fake!fake!",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2268"
+    },
+    {
+        "title": "相思創愛",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2487"
+    },
+    {
+        "title": "POP STAR",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1350"
+    },
+    {
+        "title": "Counselor",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2160"
+    },
+    {
+        "title": "Credits",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2199"
+    },
+    {
+        "title": "日本の米は世界一",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2118"
+    },
+    {
+        "title": "Rodeo Machine",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1284"
+    },
+    {
+        "title": "ちがう!!!",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2370"
+    },
+    {
+        "title": "VERTeX",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2664"
+    },
+    {
+        "title": "come again",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "792"
+    },
+    {
+        "title": "Pursuing My True Self",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2055"
+    },
+    {
+        "title": "Tell Your World",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1152"
+    },
+    {
+        "title": "右肩の蝶",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2271"
+    },
+    {
+        "title": "ピーマンたべたら",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2073"
+    },
+    {
+        "title": "Burning Hearts ～炎のANGEL～",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1221"
+    },
+    {
+        "title": "Schwarzschild",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2694"
+    },
+    {
+        "title": "Terminal Storm",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1449"
+    },
+    {
+        "title": "夜咄ディセイブ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1905"
+    },
+    {
+        "title": "Bad Apple!! feat nomico",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1770"
+    },
+    {
+        "title": "true my heart -Lovable mix-",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1428"
+    },
+    {
+        "title": "命ばっかり",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1893"
+    },
+    {
+        "title": "TiamaT:F minor",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3366"
+    },
+    {
+        "title": "だれかの心臓になれたなら",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2187"
+    },
+    {
+        "title": "ココロ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1698"
+    },
+    {
+        "title": "Mysterious Destiny",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1116"
+    },
+    {
+        "title": "初音ミクの激唱",
+        "genre": "niconico&ボーカロイド",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2502"
+    },
+    {
+        "title": "四月の雨",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "1902"
+    },
+    {
+        "title": "BaBan!! －甘い罠－",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1371"
+    },
+    {
+        "title": "1/3の純情な感情",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1401"
+    },
+    {
+        "title": "幾四音-Ixion-",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2382"
+    },
+    {
+        "title": "おちゃめ機能",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1497"
+    },
+    {
+        "title": "TRUST",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2187"
+    },
+    {
+        "title": "洗脳",
+        "genre": "maimai",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1932"
+    },
+    {
+        "title": "Deep in Abyss",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1302"
+    },
+    {
+        "title": "ナイトメア☆パーティーナイト",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2079"
+    },
+    {
+        "title": "Beat Of Mind",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1053"
+    },
+    {
+        "title": "GEMINI -M-",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "3228"
+    },
+    {
+        "title": "Fragrance",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "1965"
+    },
+    {
+        "title": "光線チューニング",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2799"
+    },
+    {
+        "title": "MilK",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1908"
+    },
+    {
+        "title": "夏祭り",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1878"
+    },
+    {
+        "title": "CITRUS MONSTER",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3096"
+    },
+    {
+        "title": "きみのためなら死ねる",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1551"
+    },
+    {
+        "title": "Los! Los! Los!",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1419"
+    },
+    {
+        "title": "CYCLES",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1488"
+    },
+    {
+        "title": "弱虫モンブラン",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1398"
+    },
+    {
+        "title": "ダブルラリアット",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1401"
+    },
+    {
+        "title": "HOT LIMIT",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1689"
+    },
+    {
+        "title": "Space Harrier Main Theme [Reborn]",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "SPiCa",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1419"
+    },
+    {
+        "title": "采配の刻 Power of order",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1536"
+    },
+    {
+        "title": "Ignite Infinity",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1005"
+    },
+    {
+        "title": "エイリアンエイリアン",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2268"
+    },
+    {
+        "title": "バレリーコ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2022"
+    },
+    {
+        "title": "コネクト",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1002"
+    },
+    {
+        "title": "ネコ日和。",
+        "genre": "maimai",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1038"
+    },
+    {
+        "title": "終わりなき物語",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1752"
+    },
+    {
+        "title": "マトリョシカ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1362"
+    },
+    {
+        "title": "fantastic dreamer",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1368"
+    },
+    {
+        "title": "Garden Of The Dragon",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2028"
+    },
+    {
+        "title": "Color My World",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "639"
+    },
+    {
+        "title": "悪戯",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2142"
+    },
+    {
+        "title": "Daydream café",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1575"
+    },
+    {
+        "title": "好き！雪！本気マジック",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2058"
+    },
+    {
+        "title": "Lionheart",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "真・ハンサム体操でズンドコホイ",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1500"
+    },
+    {
+        "title": "キミノヨゾラ哨戒班",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2223"
+    },
+    {
+        "title": "PANDORA PARADOXXX",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "Std",
+        "DXscore": "3927"
+    },
+    {
+        "title": "ローリンガール",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1629"
+    },
+    {
+        "title": "オレンジの夏",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1113"
+    },
+    {
+        "title": "welcome to maimai!! with マイマイマー",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1932"
+    },
+    {
+        "title": "物凄い勢いでけーねが物凄いうた",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1797"
+    },
+    {
+        "title": "天国と地獄 -言ノ葉リンネ-",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2244"
+    },
+    {
+        "title": "BAD∞END∞NIGHT",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1488"
+    },
+    {
+        "title": "むかしむかしのきょうのぼく",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1548"
+    },
+    {
+        "title": "Axeria",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2664"
+    },
+    {
+        "title": "デンパラダイム",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2436"
+    },
+    {
+        "title": "Crazy Circle",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2730"
+    },
+    {
+        "title": "Endless World",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1194"
+    },
+    {
+        "title": "LUCIA",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1602"
+    },
+    {
+        "title": "だんだん早くなる",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1656"
+    },
+    {
+        "title": "♡マイマイマイラブ♡",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2055"
+    },
+    {
+        "title": "Aiolos",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3300"
+    },
+    {
+        "title": "名探偵連続殺人事件",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2016"
+    },
+    {
+        "title": "ウサテイ",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1938"
+    },
+    {
+        "title": "ヤミツキ",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2172"
+    },
+    {
+        "title": "Windy Hill -Zone 1",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2223"
+    },
+    {
+        "title": "Our Fighting",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1917"
+    },
+    {
+        "title": "ZIGG-ZAGG",
+        "genre": "niconico&ボーカロイド",
+        "level": "9+",
+        "format": "Std",
+        "DXscore": "993"
+    },
+    {
+        "title": "かせげ！ジャリンコヒーロー",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1248"
+    },
+    {
+        "title": "Streak",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "996"
+    },
+    {
+        "title": "Grip & Break down !!",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2154"
+    },
+    {
+        "title": "マリアをはげませ",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1356"
+    },
+    {
+        "title": "シャルル",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1572"
+    },
+    {
+        "title": "シャルル",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1767"
+    },
+    {
+        "title": "恋愛裁判",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1896"
+    },
+    {
+        "title": "Reach For The Stars",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1647"
+    },
+    {
+        "title": "アマノジャクリバース feat. ｙｔｒ",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2331"
+    },
+    {
+        "title": "デッドレッドガールズ",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2751"
+    },
+    {
+        "title": "放課後ストライド",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2124"
+    },
+    {
+        "title": "レッツゴー!陰陽師",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1794"
+    },
+    {
+        "title": "林檎華憐歌",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2157"
+    },
+    {
+        "title": "炎歌 -ほむらうた-",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1167"
+    },
+    {
+        "title": "少女幻葬戦慄曲 ～ Necro Fantasia",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2934"
+    },
+    {
+        "title": "パンダヒーロー",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1137"
+    },
+    {
+        "title": "Scream out! -maimai SONIC WASHER Edit-",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2973"
+    },
+    {
+        "title": "Scream out! -maimai SONIC WASHER Edit-",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3267"
+    },
+    {
+        "title": "天火明命",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2889"
+    },
+    {
+        "title": "Brain Power",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1989"
+    },
+    {
+        "title": "Nyan Cat EX",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2130"
+    },
+    {
+        "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1896"
+    },
+    {
+        "title": "でらっくmaimai♪てんてこまい!",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2316"
+    },
+    {
+        "title": "Party 4U ”holy nite mix”",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2085"
+    },
+    {
+        "title": "No Routine",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2559"
+    },
+    {
+        "title": "全力☆Summer!",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1746"
+    },
+    {
+        "title": "虹と太陽",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1032"
+    },
+    {
+        "title": "アディショナルメモリー",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1755"
+    },
+    {
+        "title": "RIDGE RACER STEPS -GMT remix-",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1920"
+    },
+    {
+        "title": "TEmPTaTiON",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "DX",
+        "DXscore": "3345"
+    },
+    {
+        "title": "クノイチでも恋がしたい",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2565"
+    },
+    {
+        "title": "アマツキツネ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1983"
+    },
+    {
+        "title": "疾走あんさんぶる",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2670"
+    },
+    {
+        "title": "乗ってけ！ジャパリビート",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1380"
+    },
+    {
+        "title": "いっしそう電☆舞舞神拳！",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2604"
+    },
+    {
+        "title": "ビターチョコデコレーション",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2487"
+    },
+    {
+        "title": "最終鬼畜妹フランドール・S",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1998"
+    },
+    {
+        "title": "Money Money",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2235"
+    },
+    {
+        "title": "セツナトリップ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2019"
+    },
+    {
+        "title": "Kattobi KEIKYU Rider",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2532"
+    },
+    {
+        "title": "Agitation！",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1995"
+    },
+    {
+        "title": "Love or Lies",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1059"
+    },
+    {
+        "title": "どういうことなの！？",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1782"
+    },
+    {
+        "title": "Halcyon",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "3021"
+    },
+    {
+        "title": "Justified",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2616"
+    },
+    {
+        "title": "Sakura Fubuki",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2034"
+    },
+    {
+        "title": "セイクリッド　ルイン",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2913"
+    },
+    {
+        "title": "アージェントシンメトリー",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2238"
+    },
+    {
+        "title": "火炎地獄",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2055"
+    },
+    {
+        "title": "みくみくにしてあげる♪【してやんよ】",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1413"
+    },
+    {
+        "title": "ドクハク",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1923"
+    },
+    {
+        "title": "Future",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "858"
+    },
+    {
+        "title": "Jimang Shot",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2130"
+    },
+    {
+        "title": "ソーラン☆節",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1242"
+    },
+    {
+        "title": "あ・え・い・う・え・お・あお!!",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1620"
+    },
+    {
+        "title": "アンノウン・マザーグース",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2196"
+    },
+    {
+        "title": "エピクロスの虹はもう見えない",
+        "genre": "東方Project",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "Riders Of The Light",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1284"
+    },
+    {
+        "title": "ヒビカセ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2301"
+    },
+    {
+        "title": "花と、雪と、ドラムンベース。",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2628"
+    },
+    {
+        "title": "サドマミホリック",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2283"
+    },
+    {
+        "title": "CocktaiL",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2019"
+    },
+    {
+        "title": "ナイト・オブ・ナイツ",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2025"
+    },
+    {
+        "title": "Club Ibuki in Break All",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2019"
+    },
+    {
+        "title": "不毛！",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2130"
+    },
+    {
+        "title": "毒占欲",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1851"
+    },
+    {
+        "title": "＊ハロー、プラネット。",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1683"
+    },
+    {
+        "title": "えれくとりっく・えんじぇぅ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1782"
+    },
+    {
+        "title": "L'épilogue",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2289"
+    },
+    {
+        "title": "Candy Tall Woman",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2223"
+    },
+    {
+        "title": "Change Our MIRAI！",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2481"
+    },
+    {
+        "title": "Change Our MIRAI！",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2538"
+    },
+    {
+        "title": "Invitation",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2502"
+    },
+    {
+        "title": "終点",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2130"
+    },
+    {
+        "title": "パーフェクト生命",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2751"
+    },
+    {
+        "title": "ナミダと流星",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1551"
+    },
+    {
+        "title": "魔ジョ狩リ",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "1995"
+    },
+    {
+        "title": "Night Fly",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "858"
+    },
+    {
+        "title": "keep hopping",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2664"
+    },
+    {
+        "title": "アンドロイドガール",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2355"
+    },
+    {
+        "title": "Help me, ERINNNNNN!!",
+        "genre": "東方Project",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1617"
+    },
+    {
+        "title": "DRAGONLADY",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1926"
+    },
+    {
+        "title": "INFINITE WORLD",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1983"
+    },
+    {
+        "title": "白い雪のプリンセスは",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2163"
+    },
+    {
+        "title": "キミとボクのミライ",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1551"
+    },
+    {
+        "title": "StargazeR",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1761"
+    },
+    {
+        "title": "ゆっくりしていってね！！！",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2391"
+    },
+    {
+        "title": "Secret Sleuth",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2178"
+    },
+    {
+        "title": "アポカリプスに反逆の焔を焚べろ",
+        "genre": "maimai",
+        "level": "14",
+        "format": "DX",
+        "DXscore": "3258"
+    },
+    {
+        "title": "Clattanoia",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1686"
+    },
+    {
+        "title": "ジングルベル",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "1944"
+    },
+    {
+        "title": "QZKago Requiem",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3315"
+    },
+    {
+        "title": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1569"
+    },
+    {
+        "title": "Maxi",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2742"
+    },
+    {
+        "title": "ストリーミングハート",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2226"
+    },
+    {
+        "title": "しんでしまうとはなさけない！",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2262"
+    },
+    {
+        "title": "神室雪月花",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "708"
+    },
+    {
+        "title": "共感覚おばけ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2046"
+    },
+    {
+        "title": "WARNING×WARNING×WARNING",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "2235"
+    },
+    {
+        "title": "WARNING×WARNING×WARNING",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2232"
+    },
+    {
+        "title": "地上の戦士",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1035"
+    },
+    {
+        "title": "B.B.K.K.B.K.K.",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2712"
+    },
+    {
+        "title": "Alea jacta est!",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3030"
+    },
+    {
+        "title": "Moon of Noon",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2772"
+    },
+    {
+        "title": "東京レトロ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1410"
+    },
+    {
+        "title": "Now or Never",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "3021"
+    },
+    {
+        "title": "片想いサンバ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2448"
+    },
+    {
+        "title": "KONNANじゃないっ！",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1476"
+    },
+    {
+        "title": "東方スイーツ！～鬼畜姉妹と受難メイド～",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1656"
+    },
+    {
+        "title": "イノコリ先生",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2421"
+    },
+    {
+        "title": "Oshama Scramble!",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "3000"
+    },
+    {
+        "title": "Oshama Scramble!",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3333"
+    },
+    {
+        "title": "End of Twilight",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1752"
+    },
+    {
+        "title": "隠然",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2187"
+    },
+    {
+        "title": "永遠のメロディ",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1926"
+    },
+    {
+        "title": "Crush On You",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "831"
+    },
+    {
+        "title": "Arrival of Tears",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2109"
+    },
+    {
+        "title": "STEREOSCAPE",
+        "genre": "maimai",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1806"
+    },
+    {
+        "title": "Selector",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2154"
+    },
+    {
+        "title": "Blows Up Everything",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "3024"
+    },
+    {
+        "title": "新宝島",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1491"
+    },
+    {
+        "title": "猛進ソリストライフ！",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2568"
+    },
+    {
+        "title": "人里に下ったアタイがいつの間にか社畜になっていた件",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2739"
+    },
+    {
+        "title": "Hyper Active",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3192"
+    },
+    {
+        "title": "きらっせ☆ウッド村ファーム",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2085"
+    },
+    {
+        "title": "Hand in Hand",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1770"
+    },
+    {
+        "title": "Blew Moon",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1824"
+    },
+    {
+        "title": "U.S.A.",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1722"
+    },
+    {
+        "title": "Starlight Dance Floor",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1590"
+    },
+    {
+        "title": "ポップミュージックは僕のもの",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1683"
+    },
+    {
+        "title": "Bang Babang Bang!!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2268"
+    },
+    {
+        "title": "39みゅーじっく！",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1722"
+    },
+    {
+        "title": "セガサターン起動音[H.][Remix]",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1104"
+    },
+    {
+        "title": "ジンギスカン",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2256"
+    },
+    {
+        "title": "橙の幻想郷音頭",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1692"
+    },
+    {
+        "title": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "3087"
+    },
+    {
+        "title": "Magical Sound Shower",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1986"
+    },
+    {
+        "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2532"
+    },
+    {
+        "title": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2811"
+    },
+    {
+        "title": "ヒバナ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2013"
+    },
+    {
+        "title": "絡めトリック利己ライザー",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2313"
+    },
+    {
+        "title": "キリキリ舞Mine",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2637"
+    },
+    {
+        "title": "ソリッド",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2244"
+    },
+    {
+        "title": "踊れオーケストラ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1971"
+    },
+    {
+        "title": "超常マイマイン",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2958"
+    },
+    {
+        "title": "曖昧mind",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2127"
+    },
+    {
+        "title": "怪盗Rのテーマ",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1422"
+    },
+    {
+        "title": "GOODMEN",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2625"
+    },
+    {
+        "title": "connecting with you",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2550"
+    },
+    {
+        "title": "ハロ／ハワユ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1476"
+    },
+    {
+        "title": "ヘルシーエンド",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1659"
+    },
+    {
+        "title": "深海少女",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1731"
+    },
+    {
+        "title": "ひれ伏せ愚民どもっ！",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2340"
+    },
+    {
+        "title": "Excalibur ～Revived resolution～",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "Std",
+        "DXscore": "2922"
+    },
+    {
+        "title": "Rooftop Run: Act1",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1371"
+    },
+    {
+        "title": "ケロ⑨destiny",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1866"
+    },
+    {
+        "title": "フォルテシモBELL",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1785"
+    },
+    {
+        "title": "Caliburne ～Story of the Legendary sword～",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2868"
+    },
+    {
+        "title": "Phantasm Brigade",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2673"
+    },
+    {
+        "title": "Quartet Theme [Reborn]",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1506"
+    },
+    {
+        "title": "Starlight Vision",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1824"
+    },
+    {
+        "title": "Natural Flow",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "615"
+    },
+    {
+        "title": "ネクロファンタジア～Arr.Demetori",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2913"
+    },
+    {
+        "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2553"
+    },
+    {
+        "title": "待チ人ハ来ズ。",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2079"
+    },
+    {
+        "title": "This game",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1584"
+    },
+    {
+        "title": "Her Dream Is To Be A Fantastic Sorceress",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "705"
+    },
+    {
+        "title": "お気に召すまま",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "2037"
+    },
+    {
+        "title": "ワールズエンド・ダンスホール",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "Heartbeats",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1596"
+    },
+    {
+        "title": "だから僕は音楽を辞めた",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1929"
+    },
+    {
+        "title": "Let's Go Away",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "LOVE EAST",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2019"
+    },
+    {
+        "title": "奏者はただ背中と提琴で語るのみ",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2787"
+    },
+    {
+        "title": "東奔西走行進曲",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1947"
+    },
+    {
+        "title": "おじゃま虫",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2067"
+    },
+    {
+        "title": "モザイクロール",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1950"
+    },
+    {
+        "title": "デビル☆アイドル",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1317"
+    },
+    {
+        "title": "City Escape: Act1",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1536"
+    },
+    {
+        "title": "インビジブル",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2190"
+    },
+    {
+        "title": "NIGHT OF FIRE",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1068"
+    },
+    {
+        "title": "ブリキノダンス",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2256"
+    },
+    {
+        "title": "Lost Princess",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1116"
+    },
+    {
+        "title": "P-qoq",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2685"
+    },
+    {
+        "title": "バラライカ",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1440"
+    },
+    {
+        "title": "星屑ユートピア",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2370"
+    },
+    {
+        "title": "Brand-new Japanesque",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1410"
+    },
+    {
+        "title": "ファッとして桃源郷",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1893"
+    },
+    {
+        "title": "FFT",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2547"
+    },
+    {
+        "title": "Sweetiex2",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "924"
+    },
+    {
+        "title": "Conquista Ciela",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1842"
+    },
+    {
+        "title": "アンチクロックワイズ",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1161"
+    },
+    {
+        "title": "しねばいいのに",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1437"
+    },
+    {
+        "title": "麒麟",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2511"
+    },
+    {
+        "title": "メランコリック",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "969"
+    },
+    {
+        "title": "Limit Break",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2265"
+    },
+    {
+        "title": "Monochrome Rainbow",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1500"
+    },
+    {
+        "title": "四次元跳躍機関",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1908"
+    },
+    {
+        "title": "響縁",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2022"
+    },
+    {
+        "title": "かくしん的☆めたまるふぉ～ぜっ！",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1509"
+    },
+    {
+        "title": "かくしん的☆めたまるふぉ～ぜっ！",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1551"
+    },
+    {
+        "title": "はやくそれになりたい！",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2292"
+    },
+    {
+        "title": "BOKUTO",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "3030"
+    },
+    {
+        "title": "きたさいたま2000",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2520"
+    },
+    {
+        "title": "Believe the Rainbow",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1335"
+    },
+    {
+        "title": "サンバランド",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2100"
+    },
+    {
+        "title": "赤心性：カマトト荒療治",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2496"
+    },
+    {
+        "title": "Ultranova",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2685"
+    },
+    {
+        "title": "コトバ・カラフル",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1725"
+    },
+    {
+        "title": "Ignis Danse",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2997"
+    },
+    {
+        "title": "デコボコ体操第二",
+        "genre": "ゲーム&バラエティ",
+        "level": "9+",
+        "format": "Std",
+        "DXscore": "804"
+    },
+    {
+        "title": "One Step Ahead",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1473"
+    },
+    {
+        "title": "Signs Of Love (“Never More” ver.)",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1968"
+    },
+    {
+        "title": "敗北の少年",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2904"
+    },
+    {
+        "title": "ラブリー☆えんじぇる!!",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1503"
+    },
+    {
+        "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1716"
+    },
+    {
+        "title": "超絶！Superlative",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1344"
+    },
+    {
+        "title": "ガヴリールドロップキック",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1341"
+    },
+    {
+        "title": "End Time",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2847"
+    },
+    {
+        "title": "フラジール",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1992"
+    },
+    {
+        "title": "高気圧ねこロック",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2718"
+    },
+    {
+        "title": "Spin me harder",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1011"
+    },
+    {
+        "title": "sweet little sister",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1851"
+    },
+    {
+        "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2085"
+    },
+    {
+        "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2256"
+    },
+    {
+        "title": "エンドマークに希望と涙を添えて",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3315"
+    },
+    {
+        "title": "Danza zandA",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1914"
+    },
+    {
+        "title": "Ragnarok",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2478"
+    },
+    {
+        "title": "緋色のDance",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1794"
+    },
+    {
+        "title": "SPICY SWINGY STYLE",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1980"
+    },
+    {
+        "title": "トルコ行進曲 - オワタ＼(^o^)／",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1827"
+    },
+    {
+        "title": "ハート・ビート",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2454"
+    },
+    {
+        "title": "グリーンライツ・セレナーデ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2583"
+    },
+    {
+        "title": "YU-MU",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1728"
+    },
+    {
+        "title": "MIRROR of MAGIC",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1656"
+    },
+    {
+        "title": "脳漿炸裂ガール",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "1995"
+    },
+    {
+        "title": "脳漿炸裂ガール",
+        "genre": "niconico&ボーカロイド",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2034"
+    },
+    {
+        "title": "HIMITSUスパーク",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2004"
+    },
+    {
+        "title": "DADDY MULK -Groove remix-",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2355"
+    },
+    {
+        "title": "Backyun! －悪い女－",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1353"
+    },
+    {
+        "title": "Heart Beats",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "2076"
+    },
+    {
+        "title": "ドーナツホール",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2802"
+    },
+    {
+        "title": "Pixel Voyage",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1455"
+    },
+    {
+        "title": "宿題が終わらないっ！",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1797"
+    },
+    {
+        "title": "キズナの物語",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1068"
+    },
+    {
+        "title": "腐れ外道とチョコレゐト",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1794"
+    },
+    {
+        "title": "ロミオとシンデレラ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1350"
+    },
+    {
+        "title": "囲い無き世は一期の月影",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2154"
+    },
+    {
+        "title": "Infantoon Fantasy",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "3117"
+    },
+    {
+        "title": "Sweets×Sweets",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1161"
+    },
+    {
+        "title": "METEOR",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1632"
+    },
+    {
+        "title": "バッド・ダンス・ホール",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2391"
+    },
+    {
+        "title": "犬日和。",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1239"
+    },
+    {
+        "title": "magician's operation",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1671"
+    },
+    {
+        "title": "The wheel to the right",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2961"
+    },
+    {
+        "title": "カラフル×メロディ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1686"
+    },
+    {
+        "title": "In Chaos",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1140"
+    },
+    {
+        "title": "jelly",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "みんなの",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1899"
+    },
+    {
+        "title": "Xevel",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3507"
+    },
+    {
+        "title": "幸せになれる隠しコマンドがあるらしい",
+        "genre": "niconico&ボーカロイド",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2550"
+    },
+    {
+        "title": "specialist (“Never More” ver.)",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1833"
+    },
+    {
+        "title": "Garakuta Doll Play",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2631"
+    },
+    {
+        "title": "サウンド",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1926"
+    },
+    {
+        "title": "conflict",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2700"
+    },
+    {
+        "title": "conflict",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2844"
+    },
+    {
+        "title": "We Gonna Party",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1335"
+    },
+    {
+        "title": "Ievan Polkka",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2406"
+    },
+    {
+        "title": "おても☆Yan",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1587"
+    },
+    {
+        "title": "東方妖々夢 ～the maximum moving about～",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2340"
+    },
+    {
+        "title": "ネ！コ！",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1860"
+    },
+    {
+        "title": "Doll Judgment",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2688"
+    },
+    {
+        "title": "東京リアルワールド",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1923"
+    },
+    {
+        "title": "閃鋼のブリューナク",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "3003"
+    },
+    {
+        "title": "人生リセットボタン",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2901"
+    },
+    {
+        "title": "+♂",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2442"
+    },
+    {
+        "title": "My Dearest Song",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2406"
+    },
+    {
+        "title": "SHINY DAYS",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1077"
+    },
+    {
+        "title": "ぽっぴっぽー",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1521"
+    },
+    {
+        "title": "頓珍漢の宴",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2961"
+    },
+    {
+        "title": "Titania",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "DX",
+        "DXscore": "3093"
+    },
+    {
+        "title": "Barbed Eye",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2421"
+    },
+    {
+        "title": "awake",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1173"
+    },
+    {
+        "title": "骸骨楽団とリリア",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2172"
+    },
+    {
+        "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1788"
+    },
+    {
+        "title": "ヤバい○○",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1728"
+    },
+    {
+        "title": "UniTas",
+        "genre": "maimai",
+        "level": "14",
+        "format": "DX",
+        "DXscore": "3519"
+    },
+    {
+        "title": "げきオコスティックファイナリアリティぷんぷんマスタースパーク",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2007"
+    },
+    {
+        "title": "POPPY PAPPY DAY",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1677"
+    },
+    {
+        "title": "The Gong of Knockout",
+        "genre": "POPS&アニメ",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2124"
+    },
+    {
+        "title": "厨病激発ボーイ",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2784"
+    },
+    {
+        "title": "Strobe♡Girl",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1791"
+    },
+    {
+        "title": "Back 2 Back",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1143"
+    },
+    {
+        "title": "炭★坑★節",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "L9",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2505"
+    },
+    {
+        "title": "Scars of FAUNA",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2331"
+    },
+    {
+        "title": "After Burner",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2745"
+    },
+    {
+        "title": "空威張りビヘイビア",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2661"
+    },
+    {
+        "title": "太陽系デスコ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2139"
+    },
+    {
+        "title": "LOL -lots of laugh-",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1767"
+    },
+    {
+        "title": "フラグメンツ -T.V. maimai edit-",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1794"
+    },
+    {
+        "title": "quiet room",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1563"
+    },
+    {
+        "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2004"
+    },
+    {
+        "title": "Sun Dance",
+        "genre": "ゲーム&バラエティ",
+        "level": "9+",
+        "format": "Std",
+        "DXscore": "948"
+    },
+    {
+        "title": "どうしてこうなった",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2802"
+    },
+    {
+        "title": "Bad Apple!! feat.nomico (REDALiCE Remix)",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2142"
+    },
+    {
+        "title": "ENERGY SYNERGY MATRIX",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2580"
+    },
+    {
+        "title": "ENERGY SYNERGY MATRIX",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2616"
+    },
+    {
+        "title": "源平大戦絵巻テーマソング",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1284"
+    },
+    {
+        "title": "We Gonna Journey",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2745"
+    },
+    {
+        "title": "ようこそジャパリパークへ",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1521"
+    },
+    {
+        "title": "ようこそジャパリパークへ",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1536"
+    },
+    {
+        "title": "air's gravity",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1191"
+    },
+    {
+        "title": "FEEL the BEATS",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2793"
+    },
+    {
+        "title": "Imperishable Night 2006 (2016 Refine)",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "3129"
+    },
+    {
+        "title": "CALL HEAVEN!!",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1443"
+    },
+    {
+        "title": "アウターサイエンス",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2163"
+    },
+    {
+        "title": "オーディエンスを沸かす程度の能力 feat.タイツォン",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2124"
+    },
+    {
+        "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2070"
+    },
+    {
+        "title": "Prophesy One",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3204"
+    },
+    {
+        "title": "回レ！雪月花",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1950"
+    },
+    {
+        "title": "回レ！雪月花",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1995"
+    },
+    {
+        "title": "ENJOY POLIS",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2082"
+    },
+    {
+        "title": "いーあるふぁんくらぶ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1599"
+    },
+    {
+        "title": "いーあるふぁんくらぶ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1344"
+    },
+    {
+        "title": "Sweet Devil",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1797"
+    },
+    {
+        "title": "Revive The Rave",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2874"
+    },
+    {
+        "title": "メルティランドナイトメア",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1719"
+    },
+    {
+        "title": "甲賀忍法帖",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1953"
+    },
+    {
+        "title": "NOISY LOVE POWER☆",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "アルカリレットウセイ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1749"
+    },
+    {
+        "title": "ルカルカ★ナイトフィーバー",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1143"
+    },
+    {
+        "title": "ミラクルペイント",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2013"
+    },
+    {
+        "title": "幾望の月",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2265"
+    },
+    {
+        "title": "無敵We are one!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2814"
+    },
+    {
+        "title": "進捗どうですか？",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2754"
+    },
+    {
+        "title": "ゴーゴー幽霊船",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1203"
+    },
+    {
+        "title": "だからパンを焼いたんだ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2403"
+    },
+    {
+        "title": "シアワセうさぎ",
+        "genre": "東方Project",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1305"
+    },
+    {
+        "title": "オパ! オパ! RACER -GMT mashup-",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1674"
+    },
+    {
+        "title": "フリィダム ロリィタ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1935"
+    },
+    {
+        "title": "ロキ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2190"
+    },
+    {
+        "title": "夢花火",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2829"
+    },
+    {
+        "title": "AMAZING MIGHTYYYY!!!!",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3378"
+    },
+    {
+        "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3129"
+    },
+    {
+        "title": "カゲロウデイズ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1503"
+    },
+    {
+        "title": "FEEL ALIVE",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1407"
+    },
+    {
+        "title": "りばーぶ",
+        "genre": "maimai",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1410"
+    },
+    {
+        "title": "SILENT BLUE",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "Std",
+        "DXscore": "3258"
+    },
+    {
+        "title": "メルト",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1791"
+    },
+    {
+        "title": "UNION",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1353"
+    },
+    {
+        "title": "すろぉもぉしょん",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2364"
+    },
+    {
+        "title": "System “Z”",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2331"
+    },
+    {
+        "title": "ウッーウッーウマウマ(ﾟ∀ﾟ)",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1626"
+    },
+    {
+        "title": "妄想感傷代償連盟",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1548"
+    },
+    {
+        "title": "ぴぴぱぷぅ！",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1500"
+    },
+    {
+        "title": "やめろ！聴くな！",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2259"
+    },
+    {
+        "title": "金の聖夜霜雪に朽ちて",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2340"
+    },
+    {
+        "title": "Sunshine world tour",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1803"
+    },
+    {
+        "title": "最速最高シャッターガール",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1773"
+    },
+    {
+        "title": "Scarlet Lance",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3108"
+    },
+    {
+        "title": "雷切-RAIKIRI-",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3570"
+    },
+    {
+        "title": "Nitrous Fury",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2256"
+    },
+    {
+        "title": "Dragoon",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1950"
+    },
+    {
+        "title": "スターリースカイ☆パレード",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2268"
+    },
+    {
+        "title": "FUJIN Rumble",
+        "genre": "ゲーム&バラエティ",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3000"
+    },
+    {
+        "title": "ナイト・オブ・ナイツ (Cranky Remix)",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2433"
+    },
+    {
+        "title": "魔法少女になるしかねぇ",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2868"
+    },
+    {
+        "title": "天狗の落とし文 feat. ｙｔｒ",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2058"
+    },
+    {
+        "title": "キレキャリオン",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2145"
+    },
+    {
+        "title": "M.S.S.Planet",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1656"
+    },
+    {
+        "title": "POP TEAM EPIC",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1494"
+    },
+    {
+        "title": "POP TEAM EPIC",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1149"
+    },
+    {
+        "title": "FLOWER",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2436"
+    },
+    {
+        "title": "ってゐ！ ～えいえんてゐVer～",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1848"
+    },
+    {
+        "title": "電車で電車でGO!GO!GO!GC! -GMT remix-",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1638"
+    },
+    {
+        "title": "ナンセンス文学",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2484"
+    },
+    {
+        "title": "Got more raves？",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2706"
+    },
+    {
+        "title": "二息歩行",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1626"
+    },
+    {
+        "title": "オトヒメモリー☆ウタゲーション",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2109"
+    },
+    {
+        "title": "YATTA!",
+        "genre": "POPS&アニメ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1206"
+    },
+    {
+        "title": "デスパレイト",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2055"
+    },
+    {
+        "title": "全人類ノ非想天則",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1758"
+    },
+    {
+        "title": "白ゆき",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2157"
+    },
+    {
+        "title": "ECHO",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2304"
+    },
+    {
+        "title": "Help me, あーりん！",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2097"
+    },
+    {
+        "title": "彗星ハネムーン",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2226"
+    },
+    {
+        "title": "ここからはじまるプロローグ。",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "1926"
+    },
+    {
+        "title": "Technicians High",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2610"
+    },
+    {
+        "title": "メグメグ☆ファイアーエンドレスナイト",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1143"
+    },
+    {
+        "title": "なるとなぎのパーフェクトロックンロール教室",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2361"
+    },
+    {
+        "title": "幽闇に目醒めしは",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1518"
+    },
+    {
+        "title": "Sky High [Reborn]",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1284"
+    },
+    {
+        "title": "ココロスキャンのうた",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1872"
+    },
+    {
+        "title": "True Love Song",
+        "genre": "maimai",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "906"
+    },
+    {
+        "title": "DO RORO DERODERO ON DO RORO",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1545"
+    },
+    {
+        "title": "Last Brave ～ Go to zero",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2523"
+    },
+    {
+        "title": "Magical Flavor",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1779"
+    },
+    {
+        "title": "STAIRWAY TO GENERATION",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "-"
+    },
+    {
+        "title": "B.M.S.",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2559"
+    },
+    {
+        "title": "イロトリドリのメロディ",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1725"
+    },
+    {
+        "title": "木彫り鯰と右肩ゾンビ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2775"
+    },
+    {
+        "title": "スリップフリップ",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2496"
+    },
+    {
+        "title": "Cosmic Train",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1251"
+    },
+    {
+        "title": "心象蜃気楼",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2358"
+    },
+    {
+        "title": "FREEDOM DiVE (tpz Overcute Remix)",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3255"
+    },
+    {
+        "title": "しゅわスパ大作戦☆",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1659"
+    },
+    {
+        "title": "怒槌",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3564"
+    },
+    {
+        "title": "CYBER Sparks",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1878"
+    },
+    {
+        "title": "Our Wrenally",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "Std",
+        "DXscore": "2997"
+    },
+    {
+        "title": "Life Feels Good",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2079"
+    },
+    {
+        "title": "泣き虫O'clock",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1407"
+    },
+    {
+        "title": "Black Out",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1017"
+    },
+    {
+        "title": "Jumble Rumble",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3243"
+    },
+    {
+        "title": "MYTHOS",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2205"
+    },
+    {
+        "title": "Sprintrances",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1059"
+    },
+    {
+        "title": "Black Lair",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2502"
+    },
+    {
+        "title": "Time To Make History (AKIRA YAMAOKA Remix)",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2532"
+    },
+    {
+        "title": "目覚めRETURNER",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1650"
+    },
+    {
+        "title": "青空のラプソディ",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1443"
+    },
+    {
+        "title": "すーぱーぬこになりたい",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2691"
+    },
+    {
+        "title": "Contrapasso -paradiso-",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3072"
+    },
+    {
+        "title": "JUMPIN' JUMPIN'",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1773"
+    },
+    {
+        "title": "徒花ネクロマンシー",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1365"
+    },
+    {
+        "title": "DETARAME ROCK&ROLL THEORY",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2439"
+    },
+    {
+        "title": "記憶、記録",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1953"
+    },
+    {
+        "title": "シュガーソングとビターステップ",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "2094"
+    },
+    {
+        "title": "シュガーソングとビターステップ",
+        "genre": "POPS&アニメ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2661"
+    },
+    {
+        "title": "チルノのパーフェクトさんすう教室",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1578"
+    },
+    {
+        "title": "福宿音屋魂音泉",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2613"
+    },
+    {
+        "title": "Just Be Friends",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2436"
+    },
+    {
+        "title": "ギリギリ最強あいまいみー！",
+        "genre": "POPS&アニメ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2265"
+    },
+    {
+        "title": "ダンシング☆サムライ",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1692"
+    },
+    {
+        "title": "魔理沙は大変なものを盗んでいきました",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1752"
+    },
+    {
+        "title": "Outlaw's Lullaby",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2082"
+    },
+    {
+        "title": "セハガガガンバッちゃう！！",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2205"
+    },
+    {
+        "title": "Tic Tac DREAMIN’",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1596"
+    },
+    {
+        "title": "Live & Learn",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1980"
+    },
+    {
+        "title": "ユビキリ",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1926"
+    },
+    {
+        "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2220"
+    },
+    {
+        "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2313"
+    },
+    {
+        "title": "Urban Crusher [Remix]",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1428"
+    },
+    {
+        "title": "Soul-ride ON!",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "DX",
+        "DXscore": "1356"
+    },
+    {
+        "title": "ないせんのうた",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2475"
+    },
+    {
+        "title": "BLACK ROSE",
+        "genre": "maimai",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2127"
+    },
+    {
+        "title": "異世界かるてっと",
+        "genre": "POPS&アニメ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1386"
+    },
+    {
+        "title": "Living Universe",
+        "genre": "ゲーム&バラエティ",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "717"
+    },
+    {
+        "title": "分からない",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2859"
+    },
+    {
+        "title": "立川浄穢捕物帳",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2913"
+    },
+    {
+        "title": "玩具狂奏曲 -終焉-",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "DX",
+        "DXscore": "2841"
+    },
+    {
+        "title": "Stand Up!!!!",
+        "genre": "POPS&アニメ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1581"
+    },
+    {
+        "title": "バーチャルダム　ネーション",
+        "genre": "maimai",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2727"
+    },
+    {
+        "title": "砂の惑星 feat. HATSUNE MIKU",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2157"
+    },
+    {
+        "title": "夜明けまであと３秒",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2886"
+    },
+    {
+        "title": "Panopticon",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2700"
+    },
+    {
+        "title": "プナイプナイせんそう",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2409"
+    },
+    {
+        "title": "Love You",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "594"
+    },
+    {
+        "title": "39",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1806"
+    },
+    {
+        "title": "39",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1536"
+    },
+    {
+        "title": "リンカーネイション",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2583"
+    },
+    {
+        "title": "キャプテン・ムラサのケツアンカー",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1719"
+    },
+    {
+        "title": "ありふれたせかいせいふく",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2676"
+    },
+    {
+        "title": "イカサマライフゲイム",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2562"
+    },
+    {
+        "title": "ジャガーノート",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2127"
+    },
+    {
+        "title": "Nerverakes",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1680"
+    },
+    {
+        "title": "HERA",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3093"
+    },
+    {
+        "title": "Dreampainter",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1407"
+    },
+    {
+        "title": "Mr. Wonderland",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2220"
+    },
+    {
+        "title": "ダンスロボットダンス",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2478"
+    },
+    {
+        "title": "Cosmic Magic Shooter",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2289"
+    },
+    {
+        "title": "WORLD'S END UMBRELLA",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1557"
+    },
+    {
+        "title": "taboo tears you up",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2811"
+    },
+    {
+        "title": "maimaiちゃんのテーマ",
+        "genre": "maimai",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1194"
+    },
+    {
+        "title": "華鳥風月",
+        "genre": "東方Project",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1881"
+    },
+    {
+        "title": "スイートマジック",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1242"
+    },
+    {
+        "title": "立ち入り禁止",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "2304"
+    },
+    {
+        "title": "planet dancer",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1647"
+    },
+    {
+        "title": "ウミユリ海底譚",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2277"
+    },
+    {
+        "title": "不思議の国のクリスマス",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1638"
+    },
+    {
+        "title": "フレ！フレ！ベストフレンズ",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1422"
+    },
+    {
+        "title": "ロールプレイングゲーム",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2262"
+    },
+    {
+        "title": "ULTRA B+K",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2535"
+    },
+    {
+        "title": "からくりピエロ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1287"
+    },
+    {
+        "title": "サヨナラチェーンソー",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2322"
+    },
+    {
+        "title": "チュルリラ・チュルリラ・ダッダッダ！",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2520"
+    },
+    {
+        "title": "アゲアゲアゲイン",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1215"
+    },
+    {
+        "title": "the EmpErroR",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3171"
+    },
+    {
+        "title": "言ノ葉遊戯",
+        "genre": "maimai",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1710"
+    },
+    {
+        "title": "brilliant better",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2520"
+    },
+    {
+        "title": "Jump!! Jump!! Jump!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1722"
+    },
+    {
+        "title": "Feel My Fire",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "927"
+    },
+    {
+        "title": "Session High⤴",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1608"
+    },
+    {
+        "title": "生きてるおばけは生きている",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2487"
+    },
+    {
+        "title": "イアイア★ナイトオブデザイア",
+        "genre": "niconico&ボーカロイド",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "1041"
+    },
+    {
+        "title": "おこちゃま戦争",
+        "genre": "niconico&ボーカロイド",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2220"
+    },
+    {
+        "title": "Link",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1839"
+    },
+    {
+        "title": "Destr0yer",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "1806"
+    },
+    {
+        "title": "EVERGREEN",
+        "genre": "ゲーム&バラエティ",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1956"
+    },
+    {
+        "title": "はじめまして地球人さん",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1596"
+    },
+    {
+        "title": "ぐるぐるWASH！コインランドリー・ディスコ",
+        "genre": "maimai",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1149"
+    },
+    {
+        "title": "儚きもの人間",
+        "genre": "東方Project",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2706"
+    },
+    {
+        "title": "STARTLINER",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11",
+        "format": "DX",
+        "DXscore": "1563"
+    },
+    {
+        "title": "アリサのテーマ",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1383"
+    },
+    {
+        "title": "願いを呼ぶ季節",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1341"
+    },
+    {
+        "title": "おねがいダーリン",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2067"
+    },
+    {
+        "title": "SPILL OVER COLORS",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2496"
+    },
+    {
+        "title": "このふざけた素晴らしき世界は、僕の為にある",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2358"
+    },
+    {
+        "title": "にじよめちゃん体操第一億",
+        "genre": "POPS&アニメ",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1407"
+    },
+    {
+        "title": "炉心融解",
+        "genre": "niconico&ボーカロイド",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1248"
+    },
+    {
+        "title": "World Vanquisher",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3216"
+    },
+    {
+        "title": "KING is BACK!!",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "3165"
+    },
+    {
+        "title": "モ°ルモ°ル",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2745"
+    },
+    {
+        "title": "GET!! 夢&DREAM",
+        "genre": "POPS&アニメ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1221"
+    },
+    {
+        "title": "君の知らない物語",
+        "genre": "POPS&アニメ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "825"
+    },
+    {
+        "title": "larva",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "Std",
+        "DXscore": "3519"
+    },
+    {
+        "title": "蒼空に舞え、墨染の桜",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2094"
+    },
+    {
+        "title": "御旗のもとに",
+        "genre": "ゲーム&バラエティ",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1038"
+    },
+    {
+        "title": "Kinda Way",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2175"
+    },
+    {
+        "title": "咲キ誇レ常世ノ華",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2412"
+    },
+    {
+        "title": "結ンデ開イテ羅刹ト骸",
+        "genre": "niconico&ボーカロイド",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1761"
+    },
+    {
+        "title": "フキゲンワルツ",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "2328"
+    },
+    {
+        "title": "Death Scythe",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2289"
+    },
+    {
+        "title": "White Traveling Girl",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2415"
+    },
+    {
+        "title": "Lividi",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2949"
+    },
+    {
+        "title": "タカハせ！名人マン",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1713"
+    },
+    {
+        "title": "Imitation:Loud Lounge",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1911"
+    },
+    {
+        "title": "Good Bye, Mr. Jack",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2799"
+    },
+    {
+        "title": "BREAK YOU!!",
+        "genre": "maimai",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2316"
+    },
+    {
+        "title": "スターナイトスノウ",
+        "genre": "niconico&ボーカロイド",
+        "level": "10+",
+        "format": "Std",
+        "DXscore": "1515"
+    },
+    {
+        "title": "Calamity Fortune",
+        "genre": "東方Project",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2805"
+    },
+    {
+        "title": "Calamity Fortune",
+        "genre": "東方Project",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "3426"
+    },
+    {
+        "title": "吉原ラメント",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2547"
+    },
+    {
+        "title": "クレイジークレイジーダンサーズ",
+        "genre": "東方Project",
+        "level": "11",
+        "format": "Std",
+        "DXscore": "1818"
+    },
+    {
+        "title": "月に叢雲華に風",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1299"
+    },
+    {
+        "title": "月に叢雲華に風",
+        "genre": "東方Project",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1395"
+    },
+    {
+        "title": "ワンダーラスト",
+        "genre": "niconico&ボーカロイド",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2361"
+    },
+    {
+        "title": "D✪N’T ST✪P R✪CKIN’",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2406"
+    },
+    {
+        "title": "千本桜",
+        "genre": "niconico&ボーカロイド",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "1998"
+    },
+    {
+        "title": "千本桜",
+        "genre": "niconico&ボーカロイド",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "1911"
+    },
+    {
+        "title": "Jack-the-Ripper◆",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "Std",
+        "DXscore": "2799"
+    },
+    {
+        "title": "7thSense",
+        "genre": "maimai",
+        "level": "14",
+        "format": "Std",
+        "DXscore": "2577"
+    },
+    {
+        "title": "Endless, Sleepless Night",
+        "genre": "東方Project",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "2052"
+    },
+    {
+        "title": "Acceleration",
+        "genre": "maimai",
+        "level": "12",
+        "format": "Std",
+        "DXscore": "1392"
+    },
+    {
+        "title": "SHOW TIME",
+        "genre": "ゲーム&バラエティ",
+        "level": "10",
+        "format": "Std",
+        "DXscore": "873"
+    },
+    {
+        "title": "L4TS:2018 (feat. あひる & KTA)",
+        "genre": "ゲーム&バラエティ",
+        "level": "12+",
+        "format": "Std",
+        "DXscore": "1722"
+    },
+    {
+        "title": "TwisteD! XD",
+        "genre": "maimai",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2613"
+    },
+    {
+        "title": "その群青が愛しかったようだった",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "2151"
+    },
+    {
+        "title": "時空を超えて久しぶり！",
+        "genre": "ゲーム&バラエティ",
+        "level": "11+",
+        "format": "Std",
+        "DXscore": "1293"
+    },
+    {
+        "title": "energy trixxx",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2754"
+    },
+    {
+        "title": "アトロポスと最果の探究者",
+        "genre": "ゲーム&バラエティ",
+        "level": "13",
+        "format": "DX",
+        "DXscore": "2439"
+    },
+    {
+        "title": "NULCTRL",
+        "genre": "ゲーム&バラエティ",
+        "level": "13+",
+        "format": "DX",
+        "DXscore": "2691"
+    },
+    {
+        "title": "Valsqotch",
+        "genre": "maimai",
+        "level": "14+",
+        "format": "DX",
+        "DXscore": "3582"
+    },
+    {
+        "title": "D✪N’T ST✪P R✪CKIN’",
+        "genre": "maimai",
+        "level": "13",
+        "format": "Std",
+        "DXscore": "2406"
+    },
+    {
+        "title": "最強 the サマータイム!!!!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12",
+        "format": "DX",
+        "DXscore": "2298"
+    },
+    {
+        "title": "UTAKATA",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2040"
+    },
+    {
+        "title": "タテマエと本心の大乱闘",
+        "genre": "オンゲキ&CHUNITHM",
+        "level": "12+",
+        "format": "DX",
+        "DXscore": "2325"
+    }
+]
