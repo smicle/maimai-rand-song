@@ -165,7 +165,7 @@ export default class Home extends Mixins(MixinStyle) {
     src: require('@/assets/img/maimai/ネコ日和。.jpg'),
   }
 
-  private async result(n: number) {
+  private async result() {
     for (;;) {
       let mList = maimai
       if (this.select) {
@@ -179,7 +179,7 @@ export default class Home extends Mixins(MixinStyle) {
       }
 
       const rand: number = await require('random-number-csprng')(0, mList.length)
-      const song: Song = mList[rand]
+      const song = mList[rand]
 
       const n = maimai.findIndex(m => JSON.stringify(m) === JSON.stringify(song))
       maimai.splice(n, 1)
