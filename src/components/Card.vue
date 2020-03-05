@@ -1,19 +1,25 @@
 <template>
-  <v-card>
+  <v-card :color="bgcolor">
     <v-card-title class="caption pa-2">
       <slot name="title"></slot>
     </v-card-title>
-    <v-card-text class="body-2" :style="bl">
+    <v-card-text class="body-2" :style="bl" :class="color">
       <slot name="text"></slot>
     </v-card-text>
   </v-card>
 </template>
 
 <script lang="ts">
-import {Component, Vue} from 'vue-property-decorator'
+import {Component, Vue, Prop} from 'vue-property-decorator'
 @Component
 export default class IdolCard extends Vue {
   private bl = 'color: rgba(0, 0, 0, 0.87);'
+
+  @Prop()
+  private color?: string
+
+  @Prop()
+  private bgcolor?: string
 }
 </script>
 

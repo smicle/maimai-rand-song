@@ -4,11 +4,19 @@
 
     <v-row>
       <v-col cols="12">
-        <v-expansion-panels :focusable="true" class="px-4">
+        <v-expansion-panels focusable class="px-4">
           <v-expansion-panel class="">
             <v-expansion-panel-header>フィルター</v-expansion-panel-header>
             <v-expansion-panel-content>
-              まだ実装してない。
+              <v-select label="ジャンル" v-model="select.genre" :items="genreList"></v-select>
+              <v-select label="Lv" v-model="select.level" :items="levelList"></v-select>
+              <v-select label="バージョン" v-model="select.version" :items="versionList"></v-select>
+              <v-select label="形式" v-model="select.format" :items="formatList"></v-select>
+              <v-select
+                label="難易度"
+                v-model="select.difficulty"
+                :items="difficultyList"
+              ></v-select>
             </v-expansion-panel-content>
           </v-expansion-panel>
         </v-expansion-panels>
@@ -24,7 +32,11 @@
       </v-col>
 
       <v-col cols="4" md="2" class="pa-1">
-        <Card class="mx-0">
+        <Card
+          class="mx-0"
+          :bgcolor="song.difficulty === 'Master' ? 'purple lighten-5' : ''"
+          :color="song.difficulty === 'ReMaster' ? 'purple--text text--darken-3' : ''"
+        >
           <template v-slot:title>Lv</template>
           <template v-slot:text>{{ song.level }}</template>
         </Card>
@@ -45,11 +57,11 @@
       </v-col>
     </v-row>
 
-    <v-row :style="H(150)" class="pa-3">
+    <v-row class="pa-3 pt-1">
       <v-col cols="12">
-        <v-card class="d-flex mx-0">
+        <v-card class="d-flex mx-1">
           <div>
-            <v-avatar tile class="" size="92">
+            <v-avatar tile class="" size="92" style="border-radius: 4px">
               <img :src="song.src" />
             </v-avatar>
           </div>
@@ -92,6 +104,7 @@ interface Song {
   title: string
   genre: string
   version: string
+  difficulty: string
   level: string
   format: string
   src: string
@@ -109,30 +122,82 @@ export class MixinStyle extends Vue {
   },
 })
 export default class Home extends Mixins(MixinStyle) {
+  private select = {
+    genre: 'All',
+    level: 'All',
+    version: 'All',
+    format: 'All',
+    difficulty: 'All',
+  }
+  private genreList = [
+    'All',
+    'POPS&アニメ',
+    'niconico&ボーカロイド',
+    '東方Project',
+    'ゲーム&バラエティ',
+    'maimai',
+    'オンゲキ&CHUNITHM',
+  ]
+  // prettier-ignore
+  private levelList = ['All', '15', '14+', '14', '13+', '13', '12+', '12', '11+', '11', '10+', '10', '9+', '9', '8+', '8', '7+', '7', '6', '5', '4', '3', '2', '1']
+  // prettier-ignore
+  private versionList = [
+    'All',
+    'maimai', 'maimai PLUS',
+    'GreeN', 'GreeN PLUS',
+    'ORANGE', 'ORANGE PLUS',
+    'PiNK', 'PiNK PLUS',
+    'MURASAKi', 'MURASAKi PLUS',
+    'MiLK', 'MiLK PLUS',
+    'FiNALE',
+    'maimaiでらっくす', 'maimaiでらっくす PLUS',
+  ]
+  private formatList = ['All', 'Std', 'DX']
+  private difficultyList = ['All', 'Master', 'ReMaster']
+
   private song: Song = {
     title: 'ネコ日和。',
     genre: 'maimai',
     version: 'maimai',
+    difficulty: 'Master',
     level: '10+',
     format: 'Std',
     src: require('@/assets/img/maimai/ネコ日和。.jpg'),
   }
 
-  private async result() {
-    const rand: number = await require('random-number-csprng')(0, maimai.length)
-    const song = maimai.splice(rand, 1)[0]
+  private async result(n: number) {
+    for (;;) {
+      let mList = maimai
+      if (this.select) {
+        if (this.select.genre !== 'All') mList = mList.filter(m => this.select.genre === m.genre)
+        if (this.select.level !== 'All') mList = mList.filter(m => this.select.level === m.level)
+        if (this.select.version !== 'All')
+          mList = mList.filter(m => this.select.version === m.version)
+        if (this.select.format !== 'All') mList = mList.filter(m => this.select.format === m.format)
+        if (this.select.difficulty !== 'All')
+          mList = mList.filter(m => this.select.difficulty === m.difficulty)
+      }
 
-    if (song === undefined) return
+      const rand: number = await require('random-number-csprng')(0, mList.length)
+      const song: Song = mList[rand]
 
-    const rep = (title: string): string => title.replace(/\/|"|’|“|”|>|:|♡|!|é|&|✪|♥|－|♣|⤴/g, '')
+      const n = maimai.findIndex(m => JSON.stringify(m) === JSON.stringify(song))
+      maimai.splice(n, 1)
 
-    this.song = {
-      title: song.title,
-      genre: song.genre,
-      version: song.version,
-      level: song.level,
-      format: song.format,
-      src: require(`@/assets/img/${song.genre.replace('&', '_')}/${rep(song.title)}.jpg`),
+      if (song === undefined) continue
+
+      const rep = (title: string): string => title.replace(/\/|"|’|“|”|>|:|♡|!|é|&|✪|♥|－|♣|⤴/g, '')
+
+      this.song = {
+        title: song.title,
+        genre: song.genre,
+        version: song.version,
+        difficulty: song.difficulty,
+        level: song.level,
+        format: song.format,
+        src: require(`@/assets/img/${song.genre.replace('&', '_')}/${rep(song.title)}.jpg`),
+      }
+      return
     }
   }
 
