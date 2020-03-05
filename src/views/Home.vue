@@ -4,21 +4,21 @@
 
     <v-row>
       <v-col cols="7" class="pr-0">
-        <Card class="ml-4 mr-2">
+        <Card class="ml-4 mr-2" title="caption">
           <template v-slot:title>ジャンル</template>
           <template v-slot:text>{{ song.genre }}</template>
         </Card>
       </v-col>
 
       <v-col cols="2" class="px-0">
-        <Card>
+        <Card title="caption" text="caption">
           <template v-slot:title>形式</template>
           <template v-slot:text>{{ song.format }}</template>
         </Card>
       </v-col>
 
       <v-col cols="3" class="pl-0">
-        <Card class="mx-2">
+        <Card class="mx-2" title="caption" text="caption">
           <template v-slot:title>Lv</template>
           <template v-slot:text>{{ song.level }}</template>
         </Card>
@@ -27,7 +27,7 @@
 
     <v-row :style="H(160)">
       <v-col cols="8" class="pr-0">
-        <Card class="ma-4 mt-0 mr-0" fs="body-1">
+        <Card class="ma-4 mt-0 mr-0" title="body-2" text="body-1">
           <template v-slot:title>楽曲</template>
           <template v-slot:text>{{ song.title }}</template>
         </Card>

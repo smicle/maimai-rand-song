@@ -1,9 +1,9 @@
 <template>
   <v-card>
-    <v-card-title class="body-2">
+    <v-card-title :class="title">
       <slot name="title"></slot>
     </v-card-title>
-    <v-card-text :class="fs" :style="bl">
+    <v-card-text :class="text" :style="bl">
       <slot name="text"></slot>
     </v-card-text>
   </v-card>
@@ -16,7 +16,10 @@ export default class IdolCard extends Vue {
   private bl = 'color: rgba(0, 0, 0, 0.87);'
 
   @Prop()
-  private fs?: string
+  private title?: string
+
+  @Prop()
+  private text?: string
 }
 </script>
 
