@@ -19,8 +19,8 @@ yarn build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Link
-[Firebase](https://console.firebase.google.com/u/0/project/maimai-rand-song/)
-[maimai-rand-song](https://maimai-rand-song.web.app/)
+[Firebase](https://console.firebase.google.com/u/0/project/maimai-rand-song/)  
+[maimai-rand-song](https://maimai-rand-song.web.app/)  
 
 ### yarn add
 @mdi/font
