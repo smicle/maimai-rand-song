@@ -6558,5 +6558,37 @@
         "difficulty": "ReMaster",
         "level": "13",
         "format": "Std"
+    },
+    {
+        "title": "バイオレンストリガー",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "クレイジー・ビート",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "グラーヴェ",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "KILLER B",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
     }
 ]

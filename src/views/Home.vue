@@ -181,10 +181,10 @@ export default class Home extends Mixins(MixinStyle) {
       const rand: number = await require('random-number-csprng')(0, mList.length)
       const song = mList[rand]
 
+      if (song === undefined) continue
+
       const n = maimai.findIndex(m => JSON.stringify(m) === JSON.stringify(song))
       maimai.splice(n, 1)
-
-      if (song === undefined) continue
 
       const rep = (title: string): string => title.replace(/\/|"|’|“|”|>|:|♡|!|é|&|✪|♥|－|♣|⤴/g, '')
 
@@ -195,7 +195,7 @@ export default class Home extends Mixins(MixinStyle) {
         difficulty: song.difficulty,
         level: song.level,
         format: song.format,
-        src: require(`@/assets/img/${song.genre.replace('&', '_')}/${rep(song.title)}.jpg`),
+        src: require(`@/assets/img/${song.genre.replace(/&|＆/g, '_')}/${rep(song.title)}.jpg`),
       }
       return
     }
