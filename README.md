@@ -15,12 +15,12 @@ yarn serve
 yarn build
 ```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ### Link
 [Firebase](https://console.firebase.google.com/u/0/project/maimai-rand-song/)
 [maimai-rand-song](https://maimai-rand-song.web.app/)
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### yarn add
 @mdi/font
@@ -97,8 +97,9 @@ random-number-csprng
 }
 ```
 
-前前前世
-紅蓮の弓矢
-ホシトハナ
-Now Loading!!!!
-SAKURAスキップ
+### 削除曲
+- 前前前世
+- 紅蓮の弓矢
+- ホシトハナ
+- Now Loading!!!!
+- SAKURAスキップ
