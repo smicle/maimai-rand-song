@@ -3,7 +3,8 @@
     <v-card-title class="caption pa-2">
       <slot name="title"></slot>
     </v-card-title>
-    <v-card-text class="body-2" :style="bl" :class="color">
+
+    <v-card-text class="body-2" style="color: rgba(0, 0, 0, 0.87)" :class="color">
       <slot name="text"></slot>
     </v-card-text>
   </v-card>
@@ -11,10 +12,9 @@
 
 <script lang="ts">
 import {Component, Vue, Prop} from 'vue-property-decorator'
-@Component
-export default class IdolCard extends Vue {
-  private bl = 'color: rgba(0, 0, 0, 0.87);'
 
+@Component
+export default class Card extends Vue {
   @Prop()
   private color?: string
 
