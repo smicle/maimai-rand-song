@@ -6590,5 +6590,37 @@
         "difficulty": "Master",
         "level": "12+",
         "format": "DX"
+    },
+    {
+        "title": "ブレインジャックシンドローム",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "シエルブルーマルシェ",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "Flashkick",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "STEEL TRANSONIC",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "14",
+        "format": "DX"
     }
 ]
