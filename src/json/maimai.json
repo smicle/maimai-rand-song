@@ -6622,5 +6622,53 @@
         "difficulty": "Master",
         "level": "14",
         "format": "DX"
+    },
+    {
+        "title": "Maboroshi",
+        "genre": "ゲーム&バラエティ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "14",
+        "format": "DX"
+    },
+    {
+        "title": "CHAOS",
+        "genre": "ゲーム&バラエティ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13+",
+        "format": "DX"
+    },
+    {
+        "title": "Saika",
+        "genre": "ゲーム&バラエティ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "Lunar Mare",
+        "genre": "ゲーム&バラエティ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13+",
+        "format": "DX"
+    },
+    {
+        "title": "Entrance",
+        "genre": "ゲーム&バラエティ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13+",
+        "format": "DX"
+    },
+    {
+        "title": "六厘歌",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
     }
 ]
