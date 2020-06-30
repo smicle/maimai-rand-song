@@ -6670,5 +6670,21 @@
         "difficulty": "Master",
         "level": "12+",
         "format": "DX"
+    },
+    {
+        "title": "Catch the Wave",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "ワードワードワード",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
     }
 ]
