@@ -6686,5 +6686,77 @@
         "difficulty": "Master",
         "level": "13",
         "format": "DX"
+    },
+    {
+        "title": "Ututu",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "共鳴",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "My My My",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "Stardust Memories",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "いつかいい感じにアレしよう",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "すーぱーぬこになれんかった",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "アスヘノBRAVE",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "深海シティアンダーグラウンド",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "表裏一体",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
     }
 ]
