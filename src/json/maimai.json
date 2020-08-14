@@ -256,6 +256,14 @@
         "format": "Std"
     },
     {
+        "title": "Paradisus-Paradoxum",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
         "title": "ガラテアの螺旋",
         "genre": "maimai",
         "version": "ORANGE PLUS",
@@ -1214,6 +1222,22 @@
         "difficulty": "Master",
         "level": "10+",
         "format": "Std"
+    },
+    {
+        "title": "コネクト",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "11",
+        "format": "DX"
+    },
+    {
+        "title": "コネクト",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "ReMaster",
+        "level": "12+",
+        "format": "DX"
     },
     {
         "title": "ネコ日和。",
@@ -5648,6 +5672,14 @@
         "format": "Std"
     },
     {
+        "title": "君の知らない物語",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
         "title": "larva",
         "genre": "maimai",
         "version": "MiLK PLUS",
@@ -6757,6 +6789,54 @@
         "version": "maimaiでらっくす PLUS",
         "difficulty": "Master",
         "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "オトモダチフィルム",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "11+",
+        "format": "DX"
+    },
+    {
+        "title": "I'm with you",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "11",
+        "format": "DX"
+    },
+    {
+        "title": "I'm with you",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "11",
+        "format": "DX"
+    },
+    {
+        "title": "渦状銀河のシンフォニエッタ",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "14",
+        "format": "DX"
+    },
+    {
+        "title": "GRÄNDIR",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13+",
+        "format": "DX"
+    },
+    {
+        "title": "封焔の135秒",
+        "genre": "maimai",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "14+",
         "format": "DX"
     }
 ]

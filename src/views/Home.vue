@@ -114,7 +114,7 @@ export default class Home extends Mixins(MixinStyle) {
       const i = maimai.findIndex(m => JSON.stringify(m) === JSON.stringify(song))
       maimai.splice(i, 1)
 
-      const esc = /\/|"|’|“|”|>|:|♡|!|é|&|✪|♥|－|♣|⤴/g
+      const esc = /\/|"|’|“|”|>|:|♡|!|é|Ä|&|✪|♥|－|♣|⤴/g
       this.song = {
         title: song.title,
         genre: song.genre,
