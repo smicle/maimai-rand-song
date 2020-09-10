@@ -6838,5 +6838,77 @@
         "difficulty": "Master",
         "level": "14+",
         "format": "DX"
+    },
+    {
+        "title": "wheel",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "Drive Your Fire",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "Witches night",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "Oath Act",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "全力ハッピーライフ",
+        "genre": "niconico&ボーカロイド",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "ウマイネームイズうまみちゃん",
+        "genre": "POPS&アニメ",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12",
+        "format": "DX"
+    },
+    {
+        "title": "CHOCOLATE BOMB!!!!",
+        "genre": "オンゲキ&CHUNITHM",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "13",
+        "format": "DX"
+    },
+    {
+        "title": "はちみつアドベンチャー",
+        "genre": "オンゲキ&CHUNITHM",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
+    },
+    {
+        "title": "popcorn",
+        "genre": "オンゲキ&CHUNITHM",
+        "version": "maimaiでらっくす PLUS",
+        "difficulty": "Master",
+        "level": "12+",
+        "format": "DX"
     }
 ]

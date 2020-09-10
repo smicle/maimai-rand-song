@@ -98,8 +98,15 @@ random-number-csprng
 ```
 
 ### 削除曲
-- 前前前世
 - 紅蓮の弓矢
 - ホシトハナ
 - Now Loading!!!!
 - SAKURAスキップ
+- Stand Up!!!!
+- Pursuing My True Self
+- Signs Of Love (“Never More” ver.)
+- specialist (“Never More” ver.)
+- Time To Make History (AKIRA YAMAOKA Remix)
+- CALL HEAVEN!!
+- Sunshine world tour
+- ヤバい○○
