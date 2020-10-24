@@ -41,6 +41,7 @@ export default class SongFilter extends Vue {
     'MiLK', 'MiLK PLUS',
     'FiNALE',
     'maimaiでらっくす', 'maimaiでらっくす PLUS',
+    'Splash',
   ]
   private formatList = ['All', 'Std', 'DX']
   private difficultyList = ['All', 'Master', 'ReMaster']
