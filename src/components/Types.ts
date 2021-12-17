@@ -1,5 +1,6 @@
 export interface Select {
-  [key: string]: string
+  [key: string]: string | boolean
+  miror: boolean
   genre: string
   level: string
   version: string

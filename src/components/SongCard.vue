@@ -7,16 +7,14 @@
     </div>
 
     <div style="width: 100%">
-      <v-card-title class="caption pa-2 pb-0">楽曲</v-card-title>
-      <div style="position:relative" :style="H(56)">
+      <div>
+        <v-card-title class="caption pa-2 pb-0">楽曲</v-card-title>
+        <v-card-subtitle class="title text-right" style="float: right">{{ song.miror }}</v-card-subtitle>
+      </div>
+      <div style="position: relative" :style="H(56)">
         <v-card-text
           class="body-2"
-          style="
-            position:absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            color: rgba(0, 0, 0, 0.87);
-          "
+          style="position: absolute; top: 50%; transform: translateY(-50%); color: rgba(0, 0, 0, 0.87)"
           >{{ song.title }}</v-card-text
         >
       </div>
