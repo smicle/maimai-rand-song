@@ -47,9 +47,7 @@
     <v-btn @click="result" color="info" class="display-1" :style="H(120) + W(250)">次へ</v-btn>
 
     <div class="d-flex flex-row-reverse pt-2 pr-4 mt-4">
-      <v-btn to="/about" text class="caption" color="blue darken-3" height="20" width="70">
-        about
-      </v-btn>
+      <v-btn to="/about" text class="caption" color="blue darken-3" height="20" width="70"> about </v-btn>
     </div>
   </v-container>
 </template>
@@ -61,7 +59,6 @@ import Card from '@/components/Card.vue'
 import SongFilter from '@/components/SongFilter.vue'
 import SongCard from '@/components/SongCard.vue'
 import maimai from '@/json/maimai.json'
-
 @Component
 export class MixinStyle extends Vue {
   private H = (n: number) => `height: ${n}px;`
@@ -123,7 +120,7 @@ export default class Home extends Mixins(MixinStyle) {
         level: song.level,
         format: song.format,
         // prettier-ignore
-        src: require(`@/assets/img/${song.genre.replace(/&|＆/g, '_')}/${song.title.replace(esc,'')}.jpg`)
+        src: require(`@/assets/img/${song.genre.replace(/&|＆/g, '_')}/${song.title.replace(esc,'')}.jpg`),
       }
       return
     }
