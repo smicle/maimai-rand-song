@@ -76,6 +76,7 @@ export class MixinStyle extends Vue {
 })
 export default class Home extends Mixins(MixinStyle) {
   private select: Select = {
+    miror: false,
     genre: 'All',
     level: 'All',
     version: 'All',
@@ -90,6 +91,7 @@ export default class Home extends Mixins(MixinStyle) {
     difficulty: '',
     level: '',
     format: '',
+    miror: '',
     src: require('@/assets/img/default.jpg'),
   }
 
@@ -111,6 +113,7 @@ export default class Home extends Mixins(MixinStyle) {
       const i = maimai.findIndex(m => JSON.stringify(m) === JSON.stringify(song))
       maimai.splice(i, 1)
 
+      const miror = this.select.miror ? await require('random-number-csprng')(0, 3) : 0
       const esc = /\/|"|’|“|”|>|\*|:|♡|!|é|Ä|ö|&|✪|♥|－|♣|⤴/g
       this.song = {
         title: song.title,
@@ -119,6 +122,7 @@ export default class Home extends Mixins(MixinStyle) {
         difficulty: song.difficulty,
         level: song.level,
         format: song.format,
+        miror: ['', '⇔', '⇅', '↻'][miror],
         // prettier-ignore
         src: require(`@/assets/img/${song.genre.replace(/&|＆/g, '_')}/${song.title.replace(esc,'')}.jpg`),
       }

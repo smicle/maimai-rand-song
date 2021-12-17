@@ -3,6 +3,7 @@
     <v-expansion-panel>
       <v-expansion-panel-header>フィルター</v-expansion-panel-header>
       <v-expansion-panel-content>
+        <v-checkbox label="ミラーオプション" v-model="value.miror"></v-checkbox>
         <v-select label="ジャンル" v-model="value.genre" :items="genreList"></v-select>
         <v-select label="Lv" v-model="value.level" :items="levelList"></v-select>
         <v-select label="バージョン" v-model="value.version" :items="versionList"></v-select>
