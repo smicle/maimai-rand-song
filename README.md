@@ -98,15 +98,28 @@ random-number-csprng
 ```
 
 ### 削除曲
-- 紅蓮の弓矢
-- ホシトハナ
+- Arrival of Tears
+- CALL HEAVEN!!
+- Deep in Abyss
+- Ievan Polkka
+- NOISY LOVE POWER☆
 - Now Loading!!!!
-- SAKURAスキップ
-- Stand Up!!!!
+- POP TEAM EPIC
 - Pursuing My True Self
+- SAKURAスキップ
+- SAVIOR OF SONG
 - Signs Of Love (“Never More” ver.)
 - specialist (“Never More” ver.)
-- Time To Make History (AKIRA YAMAOKA Remix)
-- CALL HEAVEN!!
+- Stand Up!!!!
 - Sunshine world tour
+- Time To Make History (AKIRA YAMAOKA Remix)
+- うまるん体操
+- かくしん的☆めたまるふぉ～ぜっ！
+- にめんせい☆ウラオモテライフ！
+- ホシトハナ
 - ヤバい○○
+- 夏祭り
+- 極上スマイル
+- 甲賀忍法帖
+- 紅蓮の弓矢
+- 全力☆Summer!

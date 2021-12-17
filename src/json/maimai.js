@@ -1,19 +1,22 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-const fs = require("fs");
-const jsdom_1 = require("jsdom");
-const html = fs.readFileSync('song.html');
-const document = new jsdom_1.JSDOM(html).window.document;
-const song = Array.from(document.getElementsByClassName('song')[0].querySelectorAll(':scope > tr'), (tr) => {
-    const e = Array.from(tr.children, (td) => td.textContent.replace(/\n/g, '')).map(e => e.replace(/^\s*(.*?)\s*$/, '$1'));
+exports.__esModule = true;
+var fs = require("fs");
+var jsdom_1 = require("jsdom");
+var del = JSON.parse(fs.readFileSync('delete.json'));
+var html = fs.readFileSync('song.html');
+var document = new jsdom_1.JSDOM(html).window.document;
+var song = Array.from(document.getElementsByClassName('song')[0].querySelectorAll(':scope > tr'), function (tr) {
+    var e = Array.from(tr.children, function (td) { return td.textContent.replace(/\n/g, ''); }).map(function (e) {
+        return e.replace(/^\s*(.*?)\s*$/, '$1');
+    });
     return {
         title: e[0],
         genre: e[1].replace('＆', '&'),
         version: e[2],
         difficulty: e[3],
         level: e[4],
-        format: e[5],
+        format: e[5]
     };
-});
+}).filter(function (s) { return !del.find(function (d) { return d === s.title; }); });
 fs.writeFileSync('song.json', JSON.stringify(song));
 console.log('I wrote in it.');
